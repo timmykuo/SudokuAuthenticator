@@ -14,10 +14,11 @@ while (true) {
   client.close();
 }
  ```
- # Motivation
+ 
+# Motivation
  My partner, Faraz Ahmed, and I created this project as a final project for our EECS338 class at Case Western Reserve University.  We focused on multithreading the authenticator of the sudoku puzzle through a client/server to speed up the process of verifying the correctness of the puzzle.
  
- # Installation
+# Installation
 Download the source code in src. Enter the folder that it is downloaded in and enter the following commands through your terminal:
 ```
 make
